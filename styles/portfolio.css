@@ -193,3 +193,44 @@ main ul{
     margin-top: 50px;
     text-align: center;
 }
+
+.contact{
+    display: flex;
+    gap: 452px;
+    background-color: #FFF8F3;
+    margin-top: 113px;
+    padding: 50px 100px;
+
+}
+
+.last-title{
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    text-align: left;
+    margin-top: 130px;
+    margin-bottom: 20px;
+    
+}
+.last{
+    color: #474747;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#icons{
+    margin: 0 24px;
+}
+
+.contact input[type="text"], [type="email"], textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+}
+textarea{
+    height: 180px;
+}

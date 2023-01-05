@@ -147,3 +147,49 @@ main ul{
     margin-left: 30px;
     margin-top: 30px;
 }
+
+.resume{
+    margin-top: 130px;
+}
+.staffs{
+    display: flex;
+}
+
+.life{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    /* display: flex; */
+    margin-bottom: 30px;
+    margin-top: 113px;
+}
+.degree{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+    
+}
+.company{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.descr{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+
+}
+.box{
+    margin-bottom: 60px;
+}
+.hr{
+    margin-bottom: 30px;
+    margin-right: 24px;
+}
+.btm{
+    margin-top: 50px;
+    text-align: center;
+}
